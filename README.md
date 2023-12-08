@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://mail.google.com/mail/u/0/#inbox)
+[![website](./img/globe-light.svg)](https://mail.google.com/mail)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
