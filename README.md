@@ -7,7 +7,7 @@ Web developer and Designer
 I've been learning coding for the past three years
 
 *   🌍  I'm based in Kampala, Uganda
-*   ✉️  You can contact me at atuhairemartha62@gmail.com
+*   ✉️  You can contact me at <a href="atuhairemartha62@gmail.com" target="_blank">gmail.com</a>
 *   🧠  I'm learning Fiebase
 *   🤝  I'm open to collaborating on interesting projects
 *   ### Skills 
